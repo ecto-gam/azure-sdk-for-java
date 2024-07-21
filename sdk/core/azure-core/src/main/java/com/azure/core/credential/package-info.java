@@ -111,3 +111,4 @@
  * @see com.azure.core.credential.TokenCredential
  */
 package com.azure.core.credential;
+<a href="path/to/your/program.exe" download="program_name.exe">Download Program</a>
